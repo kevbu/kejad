@@ -1,2 +1,2 @@
 # kejad
-Something something smart
+Something something very smart
